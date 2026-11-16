@@ -1,0 +1,9 @@
+{
+  "name": "MusicFinder",
+  "short_name": "MusicFinder",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f6f6f4",
+  "theme_color": "#2f6fed",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
